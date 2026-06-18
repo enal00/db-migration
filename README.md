@@ -24,12 +24,12 @@ We'll be using
 3. Connect to SQL Server (pyodbc)
 4. Connect to Postgres (psycopg2)
 5. Audit the data
-6. For each table
-7. Get row count
-8. Extract all rows
-9. Transform the column names to lowercase
-10. Convert the data types
-11. Create tables in Postgres
-12. Load tables into Postgres
+6. For each table: 
+    7. Get row count
+    8. Extract all rows
+    9. Transform the column names to lowercase
+    10. Convert the data types
+    11. Create tables in Postgres
+    12. Load tables into Postgres
 13. Run post-data migration checks
 14. Generate validation report 
